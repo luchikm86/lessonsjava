@@ -44,3 +44,7 @@
 
 @Override   //переопределение
 
+
+
+В классе Exception все исключения Checked, но кроме RuntimeException - это исклбчение Unchecked
+
